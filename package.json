@@ -1,0 +1,19 @@
+{
+  "name": "financeblog",
+  "version": "1.0.0",
+  "description": "Finance blog to share relevant information in order to make financial decissions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsquizoDEV/financeBlog.git"
+  },
+  "author": "EsuizoDEV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EsquizoDEV/financeBlog/issues"
+  },
+  "homepage": "https://github.com/EsquizoDEV/financeBlog#readme"
+}
