@@ -5,6 +5,8 @@ import {blogRoutes} from './network/routes.js'
 
 //*Initializing express
 const app = express()
+app.use(express.json())
+app.use(express.urlencoded({extended:false}))
 
 //*setup port
 const port = normalizePort(process.env.PORT || 9999)
